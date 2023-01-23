@@ -1,0 +1,15 @@
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\bin\Debug\net7.0\dz_1.md.exe
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\bin\Debug\net7.0\dz_1.md.deps.json
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\bin\Debug\net7.0\dz_1.md.runtimeconfig.json
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\bin\Debug\net7.0\dz_1.md.dll
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\bin\Debug\net7.0\dz_1.md.pdb
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\obj\Debug\net7.0\dz_1.md.csproj.AssemblyReference.cache
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\obj\Debug\net7.0\dz_1.md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\obj\Debug\net7.0\dz_1.md.AssemblyInfoInputs.cache
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\obj\Debug\net7.0\dz_1.md.AssemblyInfo.cs
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\obj\Debug\net7.0\dz_1.md.csproj.CoreCompileInputs.cache
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\obj\Debug\net7.0\dz_1.md.dll
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\obj\Debug\net7.0\refint\dz_1.md.dll
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\obj\Debug\net7.0\dz_1.md.pdb
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\obj\Debug\net7.0\dz_1.md.genruntimeconfig.cache
+C:\Users\e.belyankina\Desktop\DZZ_1\dz_1.md\obj\Debug\net7.0\ref\dz_1.md.dll
